@@ -1,0 +1,14 @@
+C:\Users\egome\Documents\GitRepos\IntroToDependeencyService\DependencyDemo\DependencyDemo\bin\Debug\netstandard2.0\DependencyDemo.deps.json
+C:\Users\egome\Documents\GitRepos\IntroToDependeencyService\DependencyDemo\DependencyDemo\bin\Debug\netstandard2.0\DependencyDemo.dll
+C:\Users\egome\Documents\GitRepos\IntroToDependeencyService\DependencyDemo\DependencyDemo\bin\Debug\netstandard2.0\ref\DependencyDemo.dll
+C:\Users\egome\Documents\GitRepos\IntroToDependeencyService\DependencyDemo\DependencyDemo\bin\Debug\netstandard2.0\DependencyDemo.pdb
+C:\Users\egome\Documents\GitRepos\IntroToDependeencyService\DependencyDemo\DependencyDemo\obj\Debug\netstandard2.0\DependencyDemo.csprojAssemblyReference.cache
+C:\Users\egome\Documents\GitRepos\IntroToDependeencyService\DependencyDemo\DependencyDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\egome\Documents\GitRepos\IntroToDependeencyService\DependencyDemo\DependencyDemo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\egome\Documents\GitRepos\IntroToDependeencyService\DependencyDemo\DependencyDemo\obj\Debug\netstandard2.0\DependencyDemo.AssemblyInfoInputs.cache
+C:\Users\egome\Documents\GitRepos\IntroToDependeencyService\DependencyDemo\DependencyDemo\obj\Debug\netstandard2.0\DependencyDemo.AssemblyInfo.cs
+C:\Users\egome\Documents\GitRepos\IntroToDependeencyService\DependencyDemo\DependencyDemo\obj\Debug\netstandard2.0\DependencyDemo.csproj.CoreCompileInputs.cache
+C:\Users\egome\Documents\GitRepos\IntroToDependeencyService\DependencyDemo\DependencyDemo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\egome\Documents\GitRepos\IntroToDependeencyService\DependencyDemo\DependencyDemo\obj\Debug\netstandard2.0\DependencyDemo.dll
+C:\Users\egome\Documents\GitRepos\IntroToDependeencyService\DependencyDemo\DependencyDemo\obj\Debug\netstandard2.0\ref\DependencyDemo.dll
+C:\Users\egome\Documents\GitRepos\IntroToDependeencyService\DependencyDemo\DependencyDemo\obj\Debug\netstandard2.0\DependencyDemo.pdb

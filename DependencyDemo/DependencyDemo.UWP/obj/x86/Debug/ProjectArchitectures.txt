@@ -1,0 +1,1 @@
+C:\Users\egome\Documents\GitRepos\IntroToDependeencyService\DependencyDemo\DependencyDemo.UWP\DependencyDemo.UWP.csproj;x86
